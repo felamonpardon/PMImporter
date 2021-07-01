@@ -7,6 +7,7 @@
 <pre>
 1. <a href="https://github.com/felamonpardon/puzzle-movies-importer.git">PMImporter.</a>
 2. <a href="https://chrome.google.com/webstore/detail/cookiemanager-cookie-edit/hdhngoamekjhmnpenphenpaiindoinpo">CookieManager.</a>
+3. <a href="https://www.google.com/intl/ru/chrome/">Google Chrome.</a>
 </pre>
 <h4>Как пользоваться ?<h5>
 <ol>
