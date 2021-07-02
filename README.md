@@ -18,3 +18,6 @@
 <li> Словарь будет сохранён в папку output.</li></ol>
 
 <h4> -  Файл с расширанием .txt использовать для импортирования слов в мобильное приложение ReWord.</h5>
+<p align="center">
+<img src="https://i.ibb.co/nfNHVn8/screenshot.jpg" width="200" height="350"/>
+</p>
