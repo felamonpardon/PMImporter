@@ -9,6 +9,7 @@
 2. <a href="https://chrome.google.com/webstore/detail/cookiemanager-cookie-edit/hdhngoamekjhmnpenphenpaiindoinpo">CookieManager.</a>
 3. <a href="https://www.google.com/intl/ru/chrome/">Google Chrome.</a>
 </pre>
+<a><i>Рекомендуется отключить антивирус во время использования программы.</i></a>
 <h4>Как пользоваться ?<h5>
 <ol>
 <li> Скачайте PMImporter в любую папку.</li>
