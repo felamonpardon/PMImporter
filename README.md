@@ -1,6 +1,6 @@
+![description of the image](https://i.ibb.co/3B5Ws0q/screenshot.png)
 # Puzzle Movies Importer & ReWord 
 ( only ru )
-
 <h4>Подробнее: </h5>
 Это небольшая программа, которая позволяет вам импортировать слова из вашего словаря в <a href="https://reword.app/ru/en">ReWord</a> или просто использовать в своих назначениях.
 <h4>Необходимо установить:</h5>
